@@ -1,0 +1,9 @@
+Django
+gunicorn
+django-heroku
+dj-database-url
+django-allauth
+psycopg2
+djangorestframework
+requests
+django-crispy-forms

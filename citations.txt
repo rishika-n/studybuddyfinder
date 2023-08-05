@@ -1,0 +1,21 @@
+Friend Feature:
+https://medium.com/analytics-vidhya/add-friends-with-689a2fa4e41d
+
+User Profile:
+https://dev.to/earthcomfy/django-user-profile-3hik
+
+Chat Feature:
+https://github.com/tomitokko/django-chat-app
+
+Edit Profile:
+https://docs.djangoproject.com/en/4.1/topics/forms/
+
+SIS API Connection:
+https://dev.to/yahaya_hk/how-to-populate-your-database-with-data-from-an-external-api-in-django-398i
+
+Grid UI Formatting:
+https://getbootstrap.com/docs/4.1/layout/grid/
+
+Table Formatting UI:
+https://getbootstrap.com/docs/4.1/content/tables/#bordered-table
+
